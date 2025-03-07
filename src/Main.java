@@ -2,7 +2,6 @@ import java.util.Scanner;
 
     public class Main {
         public static void main(String[] args) {
-            // Lire en input ce que je doit faire (e.g. READ. UPDATE. CREATE)
             Scanner userInput = new Scanner((System.in));
             System.out.println("Add task");
 
